@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
+xgboost
 streamlit-folium
 folium
 openmeteo-requests
