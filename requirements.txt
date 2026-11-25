@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+sklearn
+folium
+openmeteo-requests
+requests-cache
+pgeocode
